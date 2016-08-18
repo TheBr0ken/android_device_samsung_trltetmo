@@ -1,3 +1,12 @@
+# Bluetooth firmware
+vendor/firmware/bcm4358A0_V0033.0000.hcd
+vendor/firmware/bcm4358A0_V0033.0000_wisol.hcd
+vendor/firmware/bcm4358A0_V0033.0000_wisol.hcd
+vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd
+
+# NFC
+vendor/firmware/sec_s3fwrn5_firmware.bin
+
 # GPS
 vendor/lib/hw/flp.default.so
 lib/libloc_api_v02.so
@@ -53,11 +62,17 @@ bin/qcks
 bin/qmuxd
 bin/rild
 bin/rmnetcli
+lib/libcfiril.so
 lib/libreference-ril.so
 lib/libril.so
 lib/librmnetctl.so
 lib/libsec-ril.so
-lib/librilutils.so
 lib/libsecnativefeature.so
 lib/libsecril-client.so
+lib/librilswitch.so
+lib/libsec-ril.so
+vendor/lib/libconfigdb.so
+vendor/lib/libmdmdetect.so
 vendor/lib/libril-qcril-hook-oem.so
+vendor/lib/libtime_genoff.so
+vendor/lib/libxml.so
