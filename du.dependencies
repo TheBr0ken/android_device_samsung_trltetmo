@@ -1,0 +1,44 @@
+[
+  {
+    "remote": "github",
+    "repository": "TheBr0ken/android_device_samsung_trlte-common",
+    "target_path": "device/samsung/trlte-common",
+    "branch": "du"
+  },
+  {
+    "remote": "github",
+    "repository": "TheBr0ken/android_device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch": "broken"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch": "cm-13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "TheBr0ken/android_kernel_samsung_trlte",
+    "target_path": "kernel/samsung/trlte",
+    "branch": "mm"
+  },
+  {
+    "remote": "github",
+    "repository": "TheBr0ken/proprietary_vendor_samsung",
+    "target_path": "vendor/samsung",
+    "branch": "mm"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_external_stlport",
+    "target_path": "external/stlport",
+    "branch": "cm-13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "https://github.com/CyanogenMod/android_packages_apps_Snap",
+    "target_path": "packages/apps/Snap",
+    "branch": "cm-13.0"
+  }
+]
